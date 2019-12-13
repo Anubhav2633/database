@@ -1,0 +1,24 @@
+{
+    "Mohit": [
+      { "data":  [47, 9, 28, 54]  }
+    ],
+    "Rahul": [
+        { "data":  [44, 9, 28, 54]  }
+    ],
+
+    "Dev": [
+        {"data" : [120, 200, 150, 30, 50, 90], "label": " Bilable"},
+        {"data" : [180, 160, 70, 40, 120, 90],  "label": "Non Bilable"}
+    ],
+ 
+
+    "QA": [
+        {"data" : [100, 150, 150, 30, 50, 90], "label": " Bilable"},
+        {"data" : [120, 160, 600, 40, 120, 90], "label": " Non Bilable"}
+    ],
+    "UAT": [
+        {"data" : [190, 200, 50, 30, 50, 90], "label": " Bilable"},
+        {"data" : [180, 160, 70, 40, 120, 90], "label": " Non Bilable"}
+    ]
+
+  }
